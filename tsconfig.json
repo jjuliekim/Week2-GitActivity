@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+      "outDir": "./dist/",
+      "target": "es2018",
+      "module": "NodeNext",
+      "sourceMap": true,
+      "experimentalDecorators": true,
+      "skipLibCheck": true,
+      "strict": true,
+      "lib": [
+          "es2018", "dom"
+      ]
+  },
+  "include": [
+    "**/*.ts"
+  ],
+  "exclude": [
+    "node_modules/*"
+  ]
+}
