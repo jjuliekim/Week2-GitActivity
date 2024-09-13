@@ -11,4 +11,7 @@ export class Calculator {
   public divide(x: number, y: number) : any {
     return x/y
   }
+  public hello () {
+    console.log("hello")
+  }
 };
