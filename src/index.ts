@@ -12,3 +12,4 @@ const result_divide_zero = calc.divide(2, 0);
 console.log(`result_divide = ${result_divide}`);
 console.log(`result_divide_zero = ${result_divide_zero}`)
 console.log(`result_multiply = ${result_multiply}`);
+console.log('done.');
